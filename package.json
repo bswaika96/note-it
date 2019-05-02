@@ -1,6 +1,6 @@
 {
   "name": "note-it",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A notes command line application using Node.js",
   "homepage": "https://github.com/bswaika96/note-it",
   "repository": {
