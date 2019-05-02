@@ -18,3 +18,7 @@ node_modules/
 #NPM
 
 .npm
+
+#Other Files
+
+notes.json
