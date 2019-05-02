@@ -5,7 +5,7 @@
   "homepage": "https://github.com/bswaika96/note-it",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/timberio/outside-cli.git"
+    "url": "git+https://github.com/bswaika96/note-it.git"
   },
   "main": "app.js",
   "engines": {
